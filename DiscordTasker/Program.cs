@@ -1,4 +1,6 @@
-﻿namespace DiscordTasker
+﻿using DiscordTasker.Extensions;
+
+namespace DiscordTasker
 {
     public class Program
     {
